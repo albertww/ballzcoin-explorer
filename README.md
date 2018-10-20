@@ -2,7 +2,7 @@
 
 <b>Live Version: [explorer.ballzcoin.org](http://explorer.ballzcoin.org)</b>
 
-<b>This blockchain explorer is a clone of [ETC Block Explorer](https://github.com/ethereumproject/explorer). The remainder of this readme file is left unchanged from the original. 
+<b>This blockchain explorer is a clone of [ETC Block Explorer](https://github.com/ethereumproject/explorer). The remainder of this readme file is left unchanged from the original. </b>
 
 
 ## Local installation
